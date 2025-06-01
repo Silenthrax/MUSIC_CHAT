@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH", "")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Crush_Code")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Silenthrax")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Meow_Music_Rebot")
+BOT_USERNAME = getenv("BOT_USERNAME","CINDERELLA_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME", "Meow Music Bot")
+BOT_NAME = getenv("BOT_NAME", "CINDERELLA_MUSIC_BOT")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME", "")
 
@@ -47,7 +47,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", "")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Crush2161/featuresss",
+    "https://github.com/Silenthrax/MUSIC_CHAT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -55,8 +55,8 @@ GIT_TOKEN = getenv(
 )  # ----------------------------------------------------------------
 # -------------------------------------------------------------------
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+svVGcsOFKK9lZTc1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/aboutdumpdude")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BESTIE_UNITE_CLUB")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Silenthrex")
 
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
